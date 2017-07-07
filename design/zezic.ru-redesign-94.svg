@@ -47,7 +47,7 @@
     <linearGradient
        id="Key-7"
        osb:paint="solid"
-       gradientTransform="matrix(1.6666667,0,0,1.6666667,-206.26655,3024.1557)">
+       gradientTransform="matrix(1.6666667,0,0,1.6666667,7116.0183,2994.1557)">
       <stop
          style="stop-color:#00ffcc;stop-opacity:1;"
          offset="0"
@@ -150,6 +150,24 @@
        y1="378.84802"
        x2="234.04636"
        y2="378.84802" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Key-7"
+       id="linearGradient5707"
+       gradientUnits="userSpaceOnUse"
+       x1="226.88057"
+       y1="378.84802"
+       x2="234.04636"
+       y2="378.84802" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Key-7"
+       id="linearGradient5709"
+       gradientUnits="userSpaceOnUse"
+       x1="226.88057"
+       y1="378.84802"
+       x2="234.04636"
+       y2="378.84802" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -159,10 +177,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-1399.2961"
-     inkscape:cy="135.89307"
+     inkscape:cx="1286.9665"
+     inkscape:cy="231.09794"
      inkscape:document-units="px"
-     inkscape:current-layer="g8149"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showborder="false"
@@ -318,6 +336,11 @@
        orientation="1,0"
        id="guide5082"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="1916,720.00002"
+       orientation="1,0"
+       id="guide5713"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -336,8 +359,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-332.36216)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4168"
@@ -512,6 +534,15 @@
          y="308.36215"
          id="tspan4733"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#000000;fill-opacity:0.50196078">New phones</tspan></text>
+    <rect
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       y="332.36215"
+       x="1736"
+       height="640"
+       width="360"
+       id="rect5609"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -641,13 +672,110 @@
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:10;font-family:TakaoPGothic;-inkscape-font-specification:'TakaoPGothic Bold Italic';text-align:start;text-anchor:start;fill:url(#linearGradient5183);fill-opacity:1;stroke-width:0.55802882px"
          d="m 233.49945,379.78292 q -0.85417,1.80729 -1.90105,1.80729 -0.89062,0 -0.90104,-1.39063 -1.5,1.39063 -2.59896,1.39063 -0.625,0 -0.95312,-0.42708 -0.375,-0.47396 -0.21875,-1.23959 0.25521,-1.28125 1.40104,-2.47396 1.29167,-1.34375 2.46354,-1.34375 0.71354,0 0.92188,0.56771 0.17708,0.44792 0.0365,1.47917 0.75,-0.85938 1.27083,-1.84375 h 1.02604 q -1.21875,1.75 -2.44792,3.08854 -0.20833,1.33854 0.19792,1.33854 0.47396,0 0.84375,-0.95312 z m -2.69792,-0.61459 q 0.17187,-0.86458 0.16667,-1.60937 0.005,-0.63021 -0.48959,-0.63021 -0.59375,0 -1.33854,0.72396 -1.02604,1.01562 -1.26562,2.19792 -0.17709,0.88541 0.53645,0.88541 0.44792,0 1.01563,-0.35416 0.47396,-0.29167 0.96354,-0.77084 0.40104,-0.39583 0.41146,-0.44271 z" />
     </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.19777799"
+       transform="matrix(0.47700541,0,0,0.47700541,1678.537,-80.62438)"
+       id="g5627"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12.11755848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 540.38086,382.79883 -6.76172,7.48828 c 8.12256,8.51104 21.99471,25.97324 27.32031,34.87695 l 8.68164,-5.19336 c -2.9338,-4.90493 -7.54463,-11.27447 -12.47851,-17.5957 4.88388,1.35356 9.78089,2.23126 14.5625,2.12305 l -0.22852,-10.11328 c -9.63982,0.21816 -20.9927,-3.74376 -31.0957,-11.58594 z"
+         id="path5611"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.38055325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 380.85156,383.21875 c -2.19511,1.88616 -6.01034,4.00894 -10.30468,6.19727 -0.52721,0.23427 -0.87866,0.47401 -1.4336,0.70312 -5.57063,2.29982 -12.50014,4.45238 -19.82031,6.13867 -14.64035,3.37258 -31.03768,4.75925 -41.12891,2.67188 l -1.92383,9.30469 c 8.43221,1.7442 18.75532,1.43438 29.26172,0.0645 -1.51523,1.49482 -2.88226,3.21485 -3.32226,5.69922 -0.50435,2.84767 0.88641,5.99816 2.91211,7.90429 2.04636,1.92559 4.27427,2.37741 6.5664,2.66407 2.29213,0.28665 4.79311,0.24573 7.55078,0 5.51536,-0.49147 12.03461,-1.84902 18.73633,-3.84375 l -2.71093,-9.10743 c -6.20236,1.8461 -12.26118,3.07768 -16.86915,3.48829 -2.30398,0.2053 -4.25108,0.19476 -5.52734,0.0351 -0.32295,-0.0404 -0.43425,-0.10034 -0.65039,-0.16015 0.15525,-0.20032 0.008,-0.0516 0.3418,-0.35547 1.93766,-1.76566 6.49372,-4.37475 11.86523,-6.95508 7.53955,-3.6218 16.54643,-7.28877 24.06836,-11.51758 3.29795,-1.68386 6.26051,-3.4797 8.45117,-5.63281 0.0379,-0.0323 0.0932,-0.0594 0.13086,-0.0918 l -0.0117,-0.0137 c 0.10383,-0.10354 0.23684,-0.19182 0.33789,-0.29688 l -6.51953,-6.89648 z"
+         id="path5613"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.38055229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 482.74023,382.8125 c -2.78722,11.17589 -5.774,30.81972 -5.92968,42.31055 l 9.5,0.1289 c 0.13383,-9.87835 3.12881,-30.03773 5.64843,-40.14062 z"
+         id="path5615"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.75212383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 500.77344,384.31641 c -9.58055,11.97576 -7.66043,25.78702 0.30078,33.50586 7.96121,7.71883 21.36945,9.97922 32.63476,2.71679 l -5.3164,-8.24609 c -7.55678,4.87164 -15.74498,3.08327 -20.48828,-1.51563 -3.61322,-3.50321 -5.54116,-8.27682 -3.10157,-14.30859 3.10664,3.87891 6.74904,7.04896 11.03711,9.125 6.58557,3.18836 14.34096,3.8794 22.70313,2.17578 l -1.95899,-9.61328 c -6.73791,1.37271 -12.05369,0.74299 -16.46875,-1.39453 -4.41505,-2.13752 -8.13244,-5.90197 -11.16992,-11.66797 z"
+         id="path5617"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:43.12000275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5619"
+         cx="543.12073"
+         cy="418.63977"
+         r="5.467423" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.38055325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 463.66602,381.83203 c -8.39175,9.49193 -25.38699,27.23676 -51.83594,31.9375 l 1.66211,9.35547 c 4.98559,-0.88608 9.55061,-2.28516 13.92383,-3.87109 l 3.1621,6.41992 c 5.72206,-2.27735 13.40724,-4.40186 20.49805,-4.94141 7.09081,-0.53955 13.31061,0.61755 16.84766,3.55664 l 6.07226,-7.30859 c -6.4961,-5.3979 -15.22931,-6.36269 -23.64062,-5.72266 -0.0281,0.002 -0.0559,0.008 -0.084,0.01 8.12891,-7.15493 15.41591,-15.15912 20.94336,-23.71094 l -7.54882,-5.72461 z"
+         id="path5621"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.38055325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 404.76758,382.91406 c -5.85966,9.54468 -17.38057,18.52129 -33.91016,26.92188 l 2.42774,8.97656 c 1.76131,-0.10256 3.10731,-0.51735 5.06054,-1.0957 1.83451,-0.5432 4.05686,-1.29231 6.48633,-2.14844 -0.19545,0.28652 -0.42747,0.50407 -0.60742,0.82812 -0.52095,0.93815 -1.07625,2.20591 -0.88086,3.97071 0.19539,1.76479 1.52485,3.55171 2.78125,4.33008 2.06209,1.27752 3.26929,1.10318 4.72852,1.13085 1.45922,0.0277 3.05606,-0.0932 4.87304,-0.32617 3.63397,-0.46585 8.10937,-1.39998 13.05078,-2.78906 l -2.57031,-9.14648 c -2.11151,0.59356 -3.55432,0.75843 -5.41015,1.16211 1.77408,-1.20391 2.88651,-2.14975 4.98046,-3.45313 9.62327,-5.99 21.54031,-12.52218 27.83008,-16.28516 l -0.002,-0.002 c 0.004,-0.002 0.0141,-0.006 0.0176,-0.008 l -4.89258,-8.14453 c -0.003,0.002 -0.0123,0.008 -0.0156,0.01 -10e-4,6.6e-4 -0.005,10e-4 -0.006,0.002 -2.3399,1.41106 -12.63914,6.0094 -23.36914,10.48632 2.89839,-3.00534 5.48288,-6.12221 7.52539,-9.44921 l -8.09765,-4.97071 z"
+         id="path5623"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.38055325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 582.25,383.66406 -6.55859,6.83985 c 0.14632,0.16255 0.35552,0.3182 0.50586,0.48047 l -0.002,0.002 c 0.006,0.005 0.0131,0.0123 0.0195,0.0176 3.01077,3.24623 6.84458,6.41576 11.15039,9.45703 3.43031,3.05214 6.56493,6.053 8.72266,8.64648 1.84498,2.21758 2.5512,3.88573 2.79102,4.47266 -0.21674,0.1204 -0.33599,0.25633 -1.30664,0.4668 -5.29814,1.14881 -14.06308,-0.71023 -18.94141,-10.72071 l -8.54102,4.16211 c 6.67654,13.70045 19.89259,17.92612 29.4961,15.84375 2.40241,-0.52092 4.53707,-1.35298 6.28711,-2.97656 1.75003,-1.62358 2.76418,-4.17405 2.73633,-6.39649 -0.006,-0.50923 -0.14038,-0.95026 -0.20508,-1.42773 11.05359,5.23099 22.22179,9.09706 31.09961,9.6875 l 0.63086,-9.48047 c -7.05632,-0.46929 -19.00967,-4.41737 -30.19922,-9.95312 -5.92198,-2.92976 -11.64053,-6.32671 -16.5586,-9.75196 -3.74666,-3.31289 -7.66289,-6.50538 -11.12695,-9.36914 z"
+         id="path5625"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.7920221,0,0,1.7920221,1578.9696,-578.58061)"
+       id="g5631"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:'TakaoPGothic Bold Italic';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5709);fill-opacity:1;stroke:none;stroke-width:0.55802882px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       aria-label="α"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5629"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:10;font-family:TakaoPGothic;-inkscape-font-specification:'TakaoPGothic Bold Italic';text-align:start;text-anchor:start;fill:url(#linearGradient5707);fill-opacity:1;stroke-width:0.55802882px"
+         d="m 233.49945,379.78292 q -0.85417,1.80729 -1.90105,1.80729 -0.89062,0 -0.90104,-1.39063 -1.5,1.39063 -2.59896,1.39063 -0.625,0 -0.95312,-0.42708 -0.375,-0.47396 -0.21875,-1.23959 0.25521,-1.28125 1.40104,-2.47396 1.29167,-1.34375 2.46354,-1.34375 0.71354,0 0.92188,0.56771 0.17708,0.44792 0.0365,1.47917 0.75,-0.85938 1.27083,-1.84375 h 1.02604 q -1.21875,1.75 -2.44792,3.08854 -0.20833,1.33854 0.19792,1.33854 0.47396,0 0.84375,-0.95312 z m -2.69792,-0.61459 q 0.17187,-0.86458 0.16667,-1.60937 0.005,-0.63021 -0.48959,-0.63021 -0.59375,0 -1.33854,0.72396 -1.02604,1.01562 -1.26562,2.19792 -0.17709,0.88541 0.53645,0.88541 0.44792,0 1.01563,-0.35416 0.47396,-0.29167 0.96354,-0.77084 0.40104,-0.39583 0.41146,-0.44271 z" />
+    </g>
+    <text
+       id="text5635"
+       y="50"
+       x="1983.6248"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="50"
+         x="1983.6248"
+         id="tspan5633"
+         sodipodi:role="line">Анонимус</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2062"
+       y="50"
+       id="text5639"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         sodipodi:role="line"
+         id="tspan5637"
+         x="2062"
+         y="50"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">ВОЙТИ</tspan></text>
+    <rect
+       ry="3"
+       rx="3"
+       y="32.5"
+       x="2008.5"
+       height="26"
+       width="61"
+       id="rect5641"
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.96700505;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Search Inactive"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="display:inline"
        id="g7590"
@@ -698,6 +826,46 @@
          id="path5189"
          inkscape:connector-curvature="0" />
     </g>
+    <g
+       transform="translate(1989,7)"
+       id="g5727"
+       style="display:inline"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5723"
+         cx="48.5"
+         cy="162.5"
+         r="7" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.82852,173.82843 -5.65686,-5.65686"
+         id="path5725"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text5731"
+       y="177"
+       x="1983.9005"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:0.25098039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:0.25098039"
+         y="177"
+         x="1983.9005"
+         id="tspan5729"
+         sodipodi:role="line">Поиск</tspan></text>
+    <rect
+       y="192"
+       x="1774"
+       height="1"
+       width="284"
+       id="rect5733"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.25098039;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -913,7 +1081,7 @@
        inkscape:export-xdpi="192"
        y="640"
        x="1328"
-       height="1432"
+       height="1488"
        width="360"
        id="rect5464"
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06066012;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -1208,7 +1376,7 @@
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4168-1"
        width="1280"
-       height="1352"
+       height="1280"
        x="0"
        y="720"
        inkscape:export-xdpi="180"
@@ -1217,7 +1385,7 @@
        style="display:inline;opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7075-8"
        width="280"
-       height="1352"
+       height="1280"
        x="0"
        y="720" />
     <rect
@@ -1394,12 +1562,12 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">255 комментариев:</tspan></text>
     <text
        id="text7675"
-       y="1112"
+       y="1172"
        x="415"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1112"
+         y="1172"
          x="415"
          id="tspan7673"
          sodipodi:role="line">Анонимус</tspan></text>
@@ -1409,19 +1577,19 @@
        width="27"
        height="27"
        x="368"
-       y="1093"
+       y="1153"
        ry="3"
        rx="3" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="532"
-       y="1112"
+       y="1172"
        id="text7681"><tspan
          sodipodi:role="line"
          id="tspan7679"
          x="532"
-         y="1112"
+         y="1172"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">3 АПРЕЛЯ 2017  в  22:17</tspan></text>
     <text
        id="text7685"
@@ -1438,7 +1606,7 @@
        xml:space="preserve"
        id="flowRoot7694"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,882.66667)"><flowRegion
+       transform="translate(0,942.66667)"><flowRegion
          id="flowRegion7689"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start"><rect
            id="rect7687"
@@ -1449,23 +1617,6 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start" /></flowRegion><flowPara
          style="font-size:16.66666603px;line-height:1.5em;text-align:start;text-anchor:start"
          id="flowPara7692">Спросите у домочадцев фрилансера, сколько часов в день он работает. Будете сильно удивлены.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1182"
-       y="1111"
-       id="text7698"><tspan
-         sodipodi:role="line"
-         id="tspan7696"
-         x="1182"
-         y="1111"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1">87</tspan></text>
-    <path
-       sodipodi:nodetypes="ssscssscs"
-       inkscape:connector-curvature="0"
-       id="path7700"
-       d="m 1149.5507,1100.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="518"
@@ -1494,34 +1645,16 @@
        cx="499"
        id="circle7712"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path7718"
-       d="m 1075,1113 c 0,-7.2557 13,-7.2557 13,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="2"
-       cy="1102"
-       cx="1078"
-       id="circle7720"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle7722"
-       cx="1085"
-       cy="1102"
-       r="2" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="462"
-       y="1186"
+       y="1246"
        id="text7747"><tspan
          sodipodi:role="line"
          id="tspan7745"
          x="462"
-         y="1186"
+         y="1246"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Fardek</tspan></text>
     <image
        y="1213"
@@ -1533,20 +1666,20 @@
        height="27"
        width="27"
        clip-path="url(#clipPath7808)"
-       transform="translate(0,-46)" />
+       transform="translate(0,14)" />
     <text
        id="text7753"
-       y="1186"
+       y="1246"
        x="557"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1186"
+         y="1246"
          x="557"
          id="tspan7751"
          sodipodi:role="line">3 АПРЕЛЯ 2017  в  22:19</tspan></text>
     <flowRoot
-       transform="translate(47,956.6667)"
+       transform="translate(47,1016.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7761"
        xml:space="preserve"><flowRegion
@@ -1563,52 +1696,23 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle7789"
        cx="381.5"
-       cy="1180.5"
+       cy="1240.5"
        r="2.5" />
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.96700505;stroke:#cd0b47;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7916"
-       width="56"
-       height="26"
-       x="1135.5"
-       y="1093.5"
-       rx="3"
-       ry="3" />
-    <text
-       id="text7920"
-       y="1111"
-       x="1110"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1111"
-         x="1110"
-         id="tspan7918"
-         sodipodi:role="line">10</tspan></text>
-    <rect
-       ry="3"
-       rx="3"
-       y="1093.5"
-       x="1063.5"
-       height="26"
-       width="56"
-       id="rect7924"
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.96700505;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="415"
-       y="1326"
+       y="1386"
        id="text7972"><tspan
          sodipodi:role="line"
          id="tspan7970"
          x="415"
-         y="1326"
+         y="1386"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Анонимус</tspan></text>
     <rect
        rx="3"
        ry="3"
-       y="1307"
+       y="1367"
        x="368"
        height="27"
        width="27"
@@ -1616,17 +1720,17 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text7978"
-       y="1326"
+       y="1386"
        x="532"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1326"
+         y="1386"
          x="532"
          id="tspan7976"
          sodipodi:role="line">2 АПРЕЛЯ 2017  в  17:48</tspan></text>
     <flowRoot
-       transform="translate(0,1096.6667)"
+       transform="translate(0,1156.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7986"
        xml:space="preserve"><flowRegion
@@ -1640,83 +1744,19 @@
            id="rect7980" /></flowRegion><flowPara
          id="flowPara7984"
          style="font-size:16.66666603px;line-height:1.5em;text-align:start;text-anchor:start">Первый нах!!!!111</flowPara></flowRoot>    <text
-       id="text7990"
-       y="1325"
-       x="1182"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1"
-         y="1325"
-         x="1182"
-         id="tspan7988"
-         sodipodi:role="line">87</tspan></text>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1149.5507,1314.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
-       id="path7992"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscssscs" />
-    <rect
-       ry="3"
-       rx="3"
-       y="1307.5"
-       x="1135.5"
-       height="26"
-       width="56"
-       id="rect8006"
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.96700505;stroke:#cd0b47;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.96700505;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect8012"
-       width="56"
-       height="26"
-       x="1063.5"
-       y="1307.5"
-       rx="3"
-       ry="3" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1075,1327 c 0,-7.2557 13,-7.2557 13,0"
-       id="path7994"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle7996"
-       cx="1078"
-       cy="1316"
-       r="2" />
-    <circle
-       r="2"
-       cy="1316"
-       cx="1085"
-       id="circle7998"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1110"
-       y="1325"
-       id="text8010"><tspan
-         sodipodi:role="line"
-         id="tspan8008"
-         x="1110"
-         y="1325"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">10</tspan></text>
-    <text
        id="text8038"
-       y="1400"
+       y="1460"
        x="462"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1400"
+         y="1460"
          x="462"
          id="tspan8036"
          sodipodi:role="line">Анчоус</tspan></text>
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 418,1381 c -1.662,0 -3,1.338 -3,3 v 21 c 0,1.662 1.338,3 3,3 h 21 c 1.662,0 3,-1.338 3,-3 v -8.8418 c -0.64785,0.8091 -1.41871,1.5322 -2.30469,2.1309 -5.22676,3.5316 -12.38533,1.8091 -15.80664,-3.3321 -2.89749,-4.354 -2.49587,-9.9073 0.33399,-13.957 z m 9.20117,0 c -3.2523,3.3296 -4.06669,8.6701 -1.39844,12.6797 2.73099,4.1039 8.47988,5.4875 12.60352,2.7012 2.11799,-1.4311 3.3978,-3.779 3.59375,-6.2051 v -1.3379 c -0.11062,-1.2523 -0.51996,-2.4849 -1.27539,-3.582 -2.13229,-3.0967 -6.54402,-4.1258 -9.64649,-1.9375 -2.59541,1.8306 -3.44902,5.5728 -1.5625,8.164 1.5264,2.0965 4.60053,2.7787 6.67969,1.1973 1.60129,-1.2179 2.11377,-3.6275 0.84375,-5.1934 -0.90173,-1.1119 -2.64442,-1.4592 -3.69531,-0.5136 -0.83042,0.7769 0.91334,0.3462 1.71671,0.8875 0.46012,0.2339 0.65222,0.5976 0.75781,0.8808 0.21124,0.5665 0.28524,0.9772 -0.0644,1.6485 -0.44795,0.8598 -1.3964,1.2658 -2.16993,1.2558 -0.77352,-0.01 -1.47366,-0.2812 -2.03515,-0.7929 -0.86678,-0.7899 -1.18796,-1.9241 -1.08594,-2.9375 0.10202,-1.0135 0.57368,-1.9593 1.3418,-2.6504 2.13048,-1.917 5.35369,-1.281 7.02148,0.7754 2.15476,2.6568 1.33591,6.5147 -1.23828,8.4726 -3.17524,2.4151 -7.68206,1.416 -9.93164,-1.6738 -2.68667,-3.6902 -1.50635,-8.8564 2.09766,-11.3984 0.22832,-0.1611 0.46401,-0.3037 0.70117,-0.4395 z"
+       d="m 418,1441 c -1.662,0 -3,1.338 -3,3 v 21 c 0,1.662 1.338,3 3,3 h 21 c 1.662,0 3,-1.338 3,-3 v -8.8418 c -0.64785,0.8091 -1.41871,1.5322 -2.30469,2.1309 -5.22676,3.5316 -12.38533,1.8091 -15.80664,-3.3321 -2.89749,-4.354 -2.49587,-9.9073 0.33399,-13.957 z m 9.20117,0 c -3.2523,3.3296 -4.06669,8.6701 -1.39844,12.6797 2.73099,4.1039 8.47988,5.4875 12.60352,2.7012 2.11799,-1.4311 3.3978,-3.779 3.59375,-6.2051 v -1.3379 c -0.11062,-1.2523 -0.51996,-2.4849 -1.27539,-3.582 -2.13229,-3.0967 -6.54402,-4.1258 -9.64649,-1.9375 -2.59541,1.8306 -3.44902,5.5728 -1.5625,8.164 1.5264,2.0965 4.60053,2.7787 6.67969,1.1973 1.60129,-1.2179 2.11377,-3.6275 0.84375,-5.1934 -0.90173,-1.1119 -2.64442,-1.4592 -3.69531,-0.5136 -0.83042,0.7769 0.91334,0.3462 1.71671,0.8875 0.46012,0.2339 0.65222,0.5976 0.75781,0.8808 0.21124,0.5665 0.28524,0.9772 -0.0644,1.6485 -0.44795,0.8598 -1.3964,1.2658 -2.16993,1.2558 -0.77352,-0.01 -1.47366,-0.2812 -2.03515,-0.7929 -0.86678,-0.7899 -1.18796,-1.9241 -1.08594,-2.9375 0.10202,-1.0135 0.57368,-1.9593 1.3418,-2.6504 2.13048,-1.917 5.35369,-1.281 7.02148,0.7754 2.15476,2.6568 1.33591,6.5147 -1.23828,8.4726 -3.17524,2.4151 -7.68206,1.416 -9.93164,-1.6738 -2.68667,-3.6902 -1.50635,-8.8564 2.09766,-11.3984 0.22832,-0.1611 0.46401,-0.3037 0.70117,-0.4395 z"
        id="rect8040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssccccscccccsccccccccsccccccccc" />
@@ -1724,18 +1764,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="557"
-       y="1400"
+       y="1460"
        id="text8044"><tspan
          sodipodi:role="line"
          id="tspan8042"
          x="557"
-         y="1400"
+         y="1460"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">2 АПРЕЛЯ 2017  в  19:30</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8052"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(47,1170.6667)"><flowRegion
+       transform="translate(47,1230.6667)"><flowRegion
          id="flowRegion8048"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start"><rect
            id="rect8046"
@@ -1747,23 +1787,23 @@
          style="font-size:16.66666603px;line-height:1.5em;text-align:start;text-anchor:start"
          id="flowPara8050">Фтарой! Аффтар жги есчо!!!!1111)))))000</flowPara></flowRoot>    <circle
        r="2.5"
-       cy="1394.5"
+       cy="1454.5"
        cx="381.5"
        id="circle8095"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text8099"
-       y="1474"
+       y="1534"
        x="509"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1474"
+         y="1534"
          x="509"
          id="tspan8097"
          sodipodi:role="line">Fardek</tspan></text>
     <image
-       transform="translate(47,242)"
+       transform="translate(47,302)"
        clip-path="url(#clipPath7808)"
        width="27"
        height="27"
@@ -1777,18 +1817,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="604"
-       y="1474"
+       y="1534"
        id="text8105"><tspan
          sodipodi:role="line"
          id="tspan8103"
          x="604"
-         y="1474"
+         y="1534"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">3 АПРЕЛЯ 2017  в  23:05</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8113"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(94,1244.6667)"><flowRegion
+       transform="translate(94,1304.6667)"><flowRegion
          id="flowRegion8109"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start"><rect
            id="rect8107"
@@ -1800,7 +1840,7 @@
          style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start"
          id="flowPara8111">Не следует, однако забывать, что новая модель организационной деятельности требуют от нас анализа дальнейших направлений развития.</flowPara></flowRoot>    <circle
        r="2.5"
-       cy="1468.5"
+       cy="1528.5"
        cx="428.5"
        id="circle8121"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -1808,36 +1848,10 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle8145"
        cx="428.5"
-       cy="1468.5"
+       cy="1528.5"
        r="2.5" />
-    <rect
-       style="display:inline;opacity:1;fill:#cd0b47;fill-opacity:1;stroke:#cd0b47;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect8162"
-       width="48"
-       height="26"
-       x="1143.5"
-       y="1455.5"
-       rx="3"
-       ry="3" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1181"
-       y="1473"
-       id="text8158"><tspan
-         sodipodi:role="line"
-         id="tspan8156"
-         x="1181"
-         y="1473"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">2</tspan></text>
-    <path
-       sodipodi:nodetypes="ssscssscs"
-       inkscape:connector-curvature="0"
-       id="path8160"
-       d="m 1156.5507,1463.172 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="translate(114,1307.6667)"
+       transform="translate(114,1367.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.37647059;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8668"
        xml:space="preserve"><flowRegion
@@ -1850,18 +1864,18 @@
            width="777"
            id="rect8662" /></flowRegion><flowPara
          id="flowPara8666"
-         style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059">Введите комментарий</flowPara></flowRoot>    <rect
+         style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059">Ваш ответ Fardek</flowPara></flowRoot>    <rect
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8678"
        width="730"
        height="1"
        x="462"
-       y="1587" />
+       y="1647" />
     <g
        style="opacity:0.25;fill:#000000;stroke:none;stroke-width:52.28380585;filter:url(#filter7949)"
        id="g7891"
        inkscape:label="Layer"
-       transform="matrix(0.01912638,0,0,0.01912638,790.43197,1362.0533)">
+       transform="matrix(0.01912638,0,0,0.01912638,790.43197,1422.0533)">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5228.38037109;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="M 555.1899,112.08836 V 232.7993 1153.5102 L 787.61178,921.08836 899.51607,1191.5376 1069.2797,1106.6548 955.18599,832.7993 h 320.71481 z"
@@ -1877,7 +1891,7 @@
          transform="translate(555.1899,182.7993)" />
     </g>
     <g
-       transform="matrix(0.01912638,0,0,0.01912638,789.43197,1360.0533)"
+       transform="matrix(0.01912638,0,0,0.01912638,789.43197,1420.0533)"
        inkscape:label="Layer"
        id="layer2-7"
        style="stroke-width:52.28380585">
@@ -1897,7 +1911,7 @@
     </g>
     <rect
        transform="scale(1,-1)"
-       y="-1712"
+       y="-1772"
        x="368"
        height="1"
        width="824"
@@ -1905,12 +1919,12 @@
        style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text7910"
-       y="1760"
+       y="1820"
        x="368"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1760"
+         y="1820"
          x="368"
          id="tspan7908"
          sodipodi:role="line">Похожие статьи:</tspan></text>
@@ -1918,26 +1932,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.47913742px;line-height:1em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89745951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="427.33603"
-       y="1839.5405"
+       y="1899.5405"
        id="text7914"><tspan
          sodipodi:role="line"
          x="427.33603"
-         y="1839.5405"
+         y="1899.5405"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.95827484px;line-height:1em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.89745951px"
          id="tspan7916">5</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="460"
-       y="1800"
+       y="1860"
        id="text7923"><tspan
          sodipodi:role="line"
          id="tspan7921"
          x="460"
-         y="1800"
+         y="1860"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Установка qTox в Ubuntu</tspan></text>
     <rect
-       y="1784"
+       y="1844"
        x="440.96841"
        height="99"
        width="3.0315857"
@@ -1945,22 +1959,22 @@
        style="opacity:1;fill:#00e3b5;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text523"
-       y="1861"
+       y="1921"
        x="425.49551"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1.25em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan519"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1.25em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1861"
+         y="1921"
          x="425.49551"
          sodipodi:role="line">Апреля</tspan><tspan
          id="tspan521"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1.25em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1881.8334"
+         y="1941.8334"
          x="425.49551"
          sodipodi:role="line">2017</tspan></text>
     <flowRoot
-       transform="translate(92,1564.1333)"
+       transform="translate(92,1624.1333)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4848"
        xml:space="preserve"><flowRegion
@@ -1975,23 +1989,23 @@
          id="flowPara4846"
          style="font-size:13.33333302px;line-height:1.35000002em;text-align:start;text-anchor:start">Задача организации, в особенности же начало повседневной работы по формированию позиции позволяет оценить значение соответствующий условий активизации.</flowPara></flowRoot>    <text
        id="text4867"
-       y="1839.5405"
+       y="1899.5405"
        x="884.33606"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.47913742px;line-height:1em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89745951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4865"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.95827484px;line-height:1em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.89745951px"
-         y="1839.5405"
+         y="1899.5405"
          x="884.33606"
          sodipodi:role="line">28</tspan></text>
     <text
        id="text4871"
-       y="1800"
+       y="1860"
        x="917"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1800"
+         y="1860"
          x="917"
          id="tspan4869"
          sodipodi:role="line">Покупка болтореза</tspan></text>
@@ -2001,28 +2015,28 @@
        width="3.0315857"
        height="99"
        x="897.96838"
-       y="1784" />
+       y="1844" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1.24000001em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="882.49548"
-       y="1861"
+       y="1921"
        id="text4879"><tspan
          sodipodi:role="line"
          x="882.49548"
-         y="1861"
+         y="1921"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1.24000001em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
          id="tspan4875">Июня</tspan><tspan
          sodipodi:role="line"
          x="882.49548"
-         y="1881.6666"
+         y="1941.6666"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1.24000001em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
          id="tspan4877">2015</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4887"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(549,1564.1333)"><flowRegion
+       transform="translate(549,1624.1333)"><flowRegion
          id="flowRegion4883"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start"><rect
            id="rect4881"
@@ -2316,19 +2330,19 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1399"
-       y="1112"
+       y="1172"
        id="text5014"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5012"
          x="1399"
-         y="1112"
+         y="1172"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Анонимус</tspan></text>
     <rect
        rx="3"
        ry="3"
-       y="1093"
+       y="1153"
        x="1352"
        height="27"
        width="27"
@@ -2337,7 +2351,7 @@
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <flowRoot
-       transform="translate(984,882.6667)"
+       transform="translate(984,942.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5028"
        xml:space="preserve"
@@ -2354,20 +2368,20 @@
          id="flowPara5026"
          style="font-size:16.66666603px;line-height:1.5em;text-align:start;text-anchor:start">Спросите у домочадцев фрилансера.</flowPara></flowRoot>    <text
        id="text5032"
-       y="1111"
+       y="1171"
        x="1664"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1"
-         y="1111"
+         y="1171"
          x="1664"
          id="tspan5030"
          sodipodi:role="line">87</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1631.5507,1100.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       d="m 1631.5507,1160.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
        id="path5034"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssscssscs"
@@ -2412,7 +2426,7 @@
        inkscape:export-ydpi="192" />
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1577,1112 c 0,-7.2557 13,-7.2557 13,0 z"
+       d="m 1577,1172 c 0,-7.2557 13,-7.2557 13,0 z"
        id="path5046"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -2422,13 +2436,13 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5048"
        cx="1580"
-       cy="1102"
+       cy="1162"
        r="2"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="2"
-       cy="1102"
+       cy="1162"
        cx="1587"
        id="circle5050"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2436,19 +2450,19 @@
        inkscape:export-ydpi="192" />
     <text
        id="text5060"
-       y="1186"
+       y="1246"
        x="1435"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1186"
+         y="1246"
          x="1435"
          id="tspan5058"
          sodipodi:role="line">Fardek</tspan></text>
     <image
-       transform="translate(973,-46.000001)"
+       transform="translate(973,13.999999)"
        clip-path="url(#clipPath7808)"
        width="27"
        height="27"
@@ -2464,7 +2478,7 @@
        xml:space="preserve"
        id="flowRoot5074"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1020,956.6667)"
+       transform="translate(1020,1016.6667)"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><flowRegion
          id="flowRegion5070"
@@ -2478,7 +2492,7 @@
          style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start"
          id="flowPara5072">Не следует, однако забывать, что новая модель организационной деятельности требуют от нас анализа дальнейших направлений.</flowPara></flowRoot>    <circle
        r="2.5"
-       cy="1180.5"
+       cy="1240.5"
        cx="1365.5"
        id="circle5082"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2488,25 +2502,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1612"
-       y="1111"
+       y="1171"
        id="text5098"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5096"
          x="1612"
-         y="1111"
+         y="1171"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">10</tspan></text>
     <text
        id="text5128"
-       y="1326"
+       y="1386"
        x="1399"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1326"
+         y="1386"
          x="1399"
          id="tspan5126"
          sodipodi:role="line">Анонимус</tspan></text>
@@ -2516,7 +2530,7 @@
        width="27"
        height="27"
        x="1352"
-       y="1307"
+       y="1367"
        ry="3"
        rx="3"
        inkscape:export-xdpi="192"
@@ -2525,7 +2539,7 @@
        xml:space="preserve"
        id="flowRoot5142"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(984,1096.6667)"
+       transform="translate(984,1156.6667)"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><flowRegion
          id="flowRegion5138"
@@ -2541,20 +2555,20 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1664"
-       y="1325"
+       y="1385"
        id="text5146"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5144"
          x="1664"
-         y="1325"
+         y="1385"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1">87</tspan></text>
     <path
        sodipodi:nodetypes="ssscssscs"
        inkscape:connector-curvature="0"
        id="path5148"
-       d="m 1631.5507,1314.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       d="m 1631.5507,1374.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
        style="opacity:1;fill:#cd0b47;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
@@ -2562,13 +2576,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5170"
-       d="m 1575,1327 c 0,-7.2557 13,-7.2557 13,0"
+       d="m 1575,1387 c 0,-7.2557 13,-7.2557 13,0"
        style="fill:none;fill-rule:evenodd;stroke:#080808;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="2"
-       cy="1316"
+       cy="1376"
        cx="1578"
        id="circle5172"
        style="opacity:1;fill:#080808;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2578,20 +2592,20 @@
        style="opacity:1;fill:#080808;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5174"
        cx="1585"
-       cy="1316"
+       cy="1376"
        r="2"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <text
        id="text5178"
-       y="1325"
+       y="1385"
        x="1610"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#080808;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#080808;fill-opacity:1"
-         y="1325"
+         y="1385"
          x="1610"
          id="tspan5176"
          sodipodi:role="line">10</tspan></text>
@@ -2599,25 +2613,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1435"
-       y="1400"
+       y="1460"
        id="text5182"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5180"
          x="1435"
-         y="1400"
+         y="1460"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Анчоус</tspan></text>
     <path
        sodipodi:nodetypes="ssssssccccscccccsccccccccsccccccccc"
        inkscape:connector-curvature="0"
        id="path5184"
-       d="m 1391,1381 c -1.662,0 -3,1.338 -3,3 v 21 c 0,1.662 1.338,3 3,3 h 21 c 1.662,0 3,-1.338 3,-3 v -8.8418 c -0.6478,0.8091 -1.4187,1.5322 -2.3047,2.1309 -5.2268,3.5316 -12.3853,1.8091 -15.8066,-3.3321 -2.8975,-4.354 -2.4959,-9.9073 0.334,-13.957 z m 9.2012,0 c -3.2523,3.3296 -4.0667,8.6701 -1.3985,12.6797 2.731,4.1039 8.4799,5.4875 12.6035,2.7012 2.118,-1.4311 3.3978,-3.779 3.5938,-6.2051 v -1.3379 c -0.1106,-1.2523 -0.52,-2.4849 -1.2754,-3.582 -2.1323,-3.0967 -6.544,-4.1258 -9.6465,-1.9375 -2.5954,1.8306 -3.449,5.5728 -1.5625,8.164 1.5264,2.0965 4.6006,2.7787 6.6797,1.1973 1.6013,-1.2179 2.1138,-3.6275 0.8438,-5.1934 -0.9018,-1.1119 -2.6445,-1.4592 -3.6953,-0.5136 -0.8305,0.7769 0.9133,0.3462 1.7167,0.8875 0.4601,0.2339 0.6522,0.5976 0.7578,0.8808 0.2112,0.5665 0.2852,0.9772 -0.064,1.6485 -0.448,0.8598 -1.3964,1.2658 -2.17,1.2558 -0.7735,-0.01 -1.4736,-0.2812 -2.0351,-0.7929 -0.8668,-0.7899 -1.188,-1.9241 -1.086,-2.9375 0.1021,-1.0135 0.5737,-1.9593 1.3419,-2.6504 2.1304,-1.917 5.3536,-1.281 7.0214,0.7754 2.1548,2.6568 1.3359,6.5147 -1.2383,8.4726 -3.1752,2.4151 -7.682,1.416 -9.9316,-1.6738 -2.6867,-3.6902 -1.5063,-8.8564 2.0977,-11.3984 0.2283,-0.1611 0.464,-0.3037 0.7011,-0.4395 z"
+       d="m 1391,1441 c -1.662,0 -3,1.338 -3,3 v 21 c 0,1.662 1.338,3 3,3 h 21 c 1.662,0 3,-1.338 3,-3 v -8.8418 c -0.6478,0.8091 -1.4187,1.5322 -2.3047,2.1309 -5.2268,3.5316 -12.3853,1.8091 -15.8066,-3.3321 -2.8975,-4.354 -2.4959,-9.9073 0.334,-13.957 z m 9.2012,0 c -3.2523,3.3296 -4.0667,8.6701 -1.3985,12.6797 2.731,4.1039 8.4799,5.4875 12.6035,2.7012 2.118,-1.4311 3.3978,-3.779 3.5938,-6.2051 v -1.3379 c -0.1106,-1.2523 -0.52,-2.4849 -1.2754,-3.582 -2.1323,-3.0967 -6.544,-4.1258 -9.6465,-1.9375 -2.5954,1.8306 -3.449,5.5728 -1.5625,8.164 1.5264,2.0965 4.6006,2.7787 6.6797,1.1973 1.6013,-1.2179 2.1138,-3.6275 0.8438,-5.1934 -0.9018,-1.1119 -2.6445,-1.4592 -3.6953,-0.5136 -0.8305,0.7769 0.9133,0.3462 1.7167,0.8875 0.4601,0.2339 0.6522,0.5976 0.7578,0.8808 0.2112,0.5665 0.2852,0.9772 -0.064,1.6485 -0.448,0.8598 -1.3964,1.2658 -2.17,1.2558 -0.7735,-0.01 -1.4736,-0.2812 -2.0351,-0.7929 -0.8668,-0.7899 -1.188,-1.9241 -1.086,-2.9375 0.1021,-1.0135 0.5737,-1.9593 1.3419,-2.6504 2.1304,-1.917 5.3536,-1.281 7.0214,0.7754 2.1548,2.6568 1.3359,6.5147 -1.2383,8.4726 -3.1752,2.4151 -7.682,1.416 -9.9316,-1.6738 -2.6867,-3.6902 -1.5063,-8.8564 2.0977,-11.3984 0.2283,-0.1611 0.464,-0.3037 0.7011,-0.4395 z"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <flowRoot
-       transform="translate(1020,1170.6667)"
+       transform="translate(1020,1230.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5196"
        xml:space="preserve"
@@ -2636,7 +2650,7 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5204"
        cx="1365.5"
-       cy="1394.5"
+       cy="1454.5"
        r="2.5"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
@@ -2644,18 +2658,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1471"
-       y="1466"
+       y="1526"
        id="text5208"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5206"
          x="1471"
-         y="1466"
+         y="1526"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">damoging</tspan><tspan
          sodipodi:role="line"
          x="1471"
-         y="1482.6666"
+         y="1542.6666"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:1;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="tspan5578">cidanrana</tspan></text>
     <rect
@@ -2664,13 +2678,13 @@
        width="27"
        height="27"
        x="1424"
-       y="1455"
+       y="1515"
        ry="3"
        rx="3"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <flowRoot
-       transform="translate(1056,1244.6667)"
+       transform="translate(1056,1304.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5222"
        xml:space="preserve"
@@ -2689,13 +2703,13 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5230"
        cx="1401.5"
-       cy="1468.5"
+       cy="1528.5"
        r="2.5"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="2.5"
-       cy="1468.5"
+       cy="1528.5"
        cx="1401.5"
        id="circle5232"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2705,7 +2719,7 @@
        xml:space="preserve"
        id="flowRoot5260"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.37647059;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(976,1307.6667)"
+       transform="translate(976,1367.6667)"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><flowRegion
          id="flowRegion5256"
@@ -2717,8 +2731,8 @@
            y="248"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059" /></flowRegion><flowPara
          style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059"
-         id="flowPara5258">Введите комментарий</flowPara></flowRoot>    <rect
-       y="1587"
+         id="flowPara5258">Ваш ответ damogingcidanrana</flowPara></flowRoot>    <rect
+       y="1647"
        x="1328"
        height="1"
        width="360"
@@ -2732,7 +2746,7 @@
        width="360"
        height="1"
        x="1328"
-       y="-1712"
+       y="-1772"
        transform="scale(1,-1)"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
@@ -2759,20 +2773,20 @@
        inkscape:export-ydpi="192" />
     <text
        id="text5490"
-       y="1473"
+       y="1533"
        x="1664"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1"
-         y="1473"
+         y="1533"
          x="1664"
          id="tspan5488"
          sodipodi:role="line">87</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1631.5507,1462.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       d="m 1631.5507,1522.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
        id="path5492"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssscssscs"
@@ -2782,13 +2796,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5496"
-       d="m 1577,1187 c 0,-7.2557 13,-7.2557 13,0"
+       d="m 1577,1247 c 0,-7.2557 13,-7.2557 13,0"
        style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="2"
-       cy="1176"
+       cy="1236"
        cx="1580"
        id="circle5498"
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2798,20 +2812,20 @@
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5500"
        cx="1587"
-       cy="1176"
+       cy="1236"
        r="2"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <text
        id="text5504"
-       y="1185"
+       y="1245"
        x="1606"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1185"
+         y="1245"
          x="1606"
          id="tspan5502"
          sodipodi:role="line">0</tspan></text>
@@ -2819,26 +2833,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1658"
-       y="1185"
+       y="1245"
        id="text5518"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5516"
          x="1658"
-         y="1185"
+         y="1245"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">0</tspan></text>
     <path
        sodipodi:nodetypes="ssscssscs"
        inkscape:connector-curvature="0"
        id="path5520"
-       d="m 1631.5507,1174.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       d="m 1631.5507,1234.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
        style="opacity:0.25;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <path
        style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1577,1401 c 0,-7.2557 13,-7.2557 13,0"
+       d="m 1577,1461 c 0,-7.2557 13,-7.2557 13,0"
        id="path5532"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -2848,13 +2862,13 @@
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5534"
        cx="1580"
-       cy="1390"
+       cy="1450"
        r="2"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="2"
-       cy="1390"
+       cy="1450"
        cx="1587"
        id="circle5536"
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2864,31 +2878,31 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1606"
-       y="1399"
+       y="1459"
        id="text5540"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5538"
          x="1606"
-         y="1399"
+         y="1459"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">0</tspan></text>
     <text
        id="text5544"
-       y="1399"
+       y="1459"
        x="1658"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1399"
+         y="1459"
          x="1658"
          id="tspan5542"
          sodipodi:role="line">0</tspan></text>
     <path
        style="opacity:0.25;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1631.5507,1388.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       d="m 1631.5507,1448.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
        id="path5546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssscssscs"
@@ -2898,13 +2912,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5558"
-       d="m 1577,1475 c 0,-7.2557 13,-7.2557 13,0"
+       d="m 1577,1535 c 0,-7.2557 13,-7.2557 13,0"
        style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="2"
-       cy="1464"
+       cy="1524"
        cx="1580"
        id="circle5560"
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2914,20 +2928,20 @@
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5562"
        cx="1587"
-       cy="1464"
+       cy="1524"
        r="2"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <text
        id="text5566"
-       y="1473"
+       y="1533"
        x="1606"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1473"
+         y="1533"
          x="1606"
          id="tspan5564"
          sodipodi:role="line">0</tspan></text>
@@ -2935,25 +2949,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1352"
-       y="1752"
+       y="1812"
        id="text5606"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5604"
          x="1352"
-         y="1752"
+         y="1812"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Похожие статьи:</tspan></text>
     <text
        id="text5614"
-       y="1795"
+       y="1855"
        x="1371"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1795"
+         y="1855"
          x="1371"
          id="tspan5612"
          sodipodi:role="line">Установка qTox в Ubuntu</tspan></text>
@@ -2963,14 +2977,14 @@
        width="3.0315857"
        height="99"
        x="1351.9684"
-       y="1779"
+       y="1839"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5630"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1003,1580.1333)"
+       transform="translate(1003,1640.1333)"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><flowRegion
          id="flowRegion5626"
@@ -2986,17 +3000,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1371"
-       y="1930"
+       y="1990"
        id="text5638"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5636"
          x="1371"
-         y="1930"
+         y="1990"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Покупка болтореза</tspan></text>
     <rect
-       y="1914"
+       y="1974"
        x="1351.9684"
        height="99"
        width="3.0315857"
@@ -3005,7 +3019,7 @@
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <flowRoot
-       transform="translate(1003,1715.1333)"
+       transform="translate(1003,1775.1333)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5654"
        xml:space="preserve"
@@ -3022,14 +3036,14 @@
          id="flowPara5652"
          style="font-size:13.33333302px;line-height:1.35000002em;text-align:start;text-anchor:start">Товарищи! сложившаяся структура организации позволяет выполнять важные задания по разработке позиций, занимаемых.</flowPara></flowRoot>    <text
        id="text5658"
-       y="1818"
+       y="1878"
        x="1371"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         y="1818"
+         y="1878"
          x="1371"
          id="tspan5656"
          sodipodi:role="line">5 Апреля 2017</tspan></text>
@@ -3037,73 +3051,35 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1371"
-       y="1953"
+       y="2013"
        id="text5662"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan5660"
          x="1371"
-         y="1953"
+         y="2013"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">28 Июня 2015</tspan></text>
     <circle
        style="opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5664"
-       cx="1640"
-       cy="2024"
+       cx="1632"
+       cy="2072"
        r="24"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
-    <path
-       style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1091,1475 c 0,-7.2557 13,-7.2557 13,0"
-       id="path5700"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5702"
-       cx="1094"
-       cy="1464"
-       r="2" />
-    <circle
-       r="2"
-       cy="1464"
-       cx="1101"
-       id="circle5704"
-       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1119"
-       y="1473"
-       id="text5708"><tspan
-         sodipodi:role="line"
-         id="tspan5706"
-         x="1119"
-         y="1473"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">0</tspan></text>
-    <rect
-       style="display:inline;opacity:0.25;fill:none;fill-opacity:0.96700505;stroke:#000000;stroke-width:0.92780155;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5710"
-       width="48.072197"
-       height="26.072199"
-       x="1079.4639"
-       y="1455.4639"
-       rx="2.5752964"
-       ry="3.0083306" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5712"
-       cx="1640"
-       cy="2024"
+       cx="1632"
+       cy="2072"
        r="3"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <circle
        r="3"
-       cy="2024"
-       cx="1630"
+       cy="2072"
+       cx="1622"
        id="circle5718"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="192"
@@ -3111,14 +3087,14 @@
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle5720"
-       cx="1650"
-       cy="2024"
+       cx="1642"
+       cy="2072"
        r="3"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
     <path
        style="opacity:0.25;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1672,1566 -24,-8 v 7 l 19,1 -19,1 v 7 z"
+       d="m 1672,1626 -24,-8 v 7 l 19,1 -19,1 v 7 z"
        id="path5065"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -3130,30 +3106,30 @@
        width="27"
        height="27"
        x="1352"
-       y="1093"
+       y="1153"
        ry="3"
        rx="3" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path5086"
-       d="m 1176,1566 -24,-8 v 7 l 19,1 -19,1 v 7 z"
+       d="m 1176,1626 -24,-8 v 7 l 19,1 -19,1 v 7 z"
        style="opacity:0.25;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="415"
-       y="1632"
+       y="1692"
        id="text5090"><tspan
          sodipodi:role="line"
          id="tspan5088"
          x="415"
-         y="1632"
+         y="1692"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Анонимус</tspan></text>
     <rect
        rx="3"
        ry="3"
-       y="1613"
+       y="1673"
        x="368"
        height="27"
        width="27"
@@ -3161,17 +3137,17 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text5096"
-       y="1632"
+       y="1692"
        x="532"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1632"
+         y="1692"
          x="532"
          id="tspan5094"
          sodipodi:role="line">3 АПРЕЛЯ 2017  в  22:17</tspan></text>
     <flowRoot
-       transform="translate(0,1402.6667)"
+       transform="translate(0,1462.6667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5104"
        xml:space="preserve"><flowRegion
@@ -3185,79 +3161,15 @@
            id="rect5098" /></flowRegion><flowPara
          id="flowPara5102"
          style="font-size:16.66666603px;line-height:1.5em;text-align:start;text-anchor:start">Спросите у домочадцев фрилансера, сколько часов в день он работает. Будете сильно удивлены.</flowPara></flowRoot>    <text
-       id="text5108"
-       y="1631"
-       x="1182"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1"
-         y="1631"
-         x="1182"
-         id="tspan5106"
-         sodipodi:role="line">87</tspan></text>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1149.5507,1620.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
-       id="path5110"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscssscs" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1075,1633 c 0,-7.2557 13,-7.2557 13,0"
-       id="path5112"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5114"
-       cx="1078"
-       cy="1622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1622"
-       cx="1085"
-       id="circle5116"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="3"
-       rx="3"
-       y="1613.5"
-       x="1135.5"
-       height="26"
-       width="56"
-       id="rect5118"
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.96700505;stroke:#cd0b47;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1110"
-       y="1631"
-       id="text5122"><tspan
-         sodipodi:role="line"
-         id="tspan5120"
-         x="1110"
-         y="1631"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">10</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.96700505;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5124"
-       width="56"
-       height="26"
-       x="1063.5"
-       y="1613.5"
-       rx="3"
-       ry="3" />
-    <text
        inkscape:export-ydpi="192"
        inkscape:export-xdpi="192"
        id="text5129"
-       y="1632"
+       y="1692"
        x="1399"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         y="1632"
+         y="1692"
          x="1399"
          id="tspan5127"
          sodipodi:role="line">Анонимус</tspan></text>
@@ -3269,7 +3181,7 @@
        width="27"
        height="27"
        x="1352"
-       y="1613"
+       y="1673"
        ry="3"
        rx="3" />
     <flowRoot
@@ -3278,7 +3190,7 @@
        xml:space="preserve"
        id="flowRoot5139"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(984,1402.6667)"><flowRegion
+       transform="translate(984,1462.6667)"><flowRegion
          id="flowRegion5135"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.5em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start"><rect
            id="rect5133"
@@ -3294,12 +3206,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1664"
-       y="1631"
+       y="1691"
        id="text5143"><tspan
          sodipodi:role="line"
          id="tspan5141"
          x="1664"
-         y="1631"
+         y="1691"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1">87</tspan></text>
     <path
        inkscape:export-ydpi="192"
@@ -3307,7 +3219,7 @@
        sodipodi:nodetypes="ssscssscs"
        inkscape:connector-curvature="0"
        id="path5145"
-       d="m 1631.5507,1620.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       d="m 1631.5507,1680.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="192"
@@ -3315,13 +3227,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5147"
-       d="m 1577,1632 c 0,-7.2557 13,-7.2557 13,0 z"
+       d="m 1577,1692 c 0,-7.2557 13,-7.2557 13,0 z"
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        inkscape:export-ydpi="192"
        inkscape:export-xdpi="192"
        r="2"
-       cy="1622"
+       cy="1682"
        cx="1580"
        id="circle5149"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -3331,25 +3243,25 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5151"
        cx="1587"
-       cy="1622"
+       cy="1682"
        r="2" />
     <text
        inkscape:export-ydpi="192"
        inkscape:export-xdpi="192"
        id="text5155"
-       y="1631"
+       y="1691"
        x="1612"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         y="1631"
+         y="1691"
          x="1612"
          id="tspan5153"
          sodipodi:role="line">10</tspan></text>
     <rect
        rx="3"
        ry="3"
-       y="1613"
+       y="1673"
        x="1352"
        height="27"
        width="27"
@@ -3828,6 +3740,693 @@
        cx="-1182"
        id="circle5487"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1192"
+       y="1171"
+       id="text5491"><tspan
+         sodipodi:role="line"
+         id="tspan5489"
+         x="1192"
+         y="1171"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1">87</tspan></text>
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       sodipodi:nodetypes="ssscssscs"
+       inkscape:connector-curvature="0"
+       id="path5493"
+       d="m 1159.5507,1160.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5495"
+       d="m 1105,1172 c 0,-7.2557 13,-7.2557 13,0 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="2"
+       cy="1162"
+       cx="1108"
+       id="circle5497"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5499"
+       cx="1115"
+       cy="1162"
+       r="2" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       id="text5503"
+       y="1171"
+       x="1140"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+         y="1171"
+         x="1140"
+         id="tspan5501"
+         sodipodi:role="line">10</tspan></text>
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       id="text5507"
+       y="1385"
+       x="1192"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1"
+         y="1385"
+         x="1192"
+         id="tspan5505"
+         sodipodi:role="line">87</tspan></text>
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:1;fill:#cd0b47;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1159.5507,1374.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       id="path5509"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscssscs" />
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="fill:none;fill-rule:evenodd;stroke:#080808;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1103,1387 c 0,-7.2557 13,-7.2557 13,0"
+       id="path5511"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:1;fill:#080808;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5513"
+       cx="1106"
+       cy="1376"
+       r="2" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="2"
+       cy="1376"
+       cx="1113"
+       id="circle5515"
+       style="opacity:1;fill:#080808;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#080808;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1138"
+       y="1385"
+       id="text5519"><tspan
+         sodipodi:role="line"
+         id="tspan5517"
+         x="1138"
+         y="1385"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#080808;fill-opacity:1">10</tspan></text>
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1192"
+       y="1533"
+       id="text5523"><tspan
+         sodipodi:role="line"
+         id="tspan5521"
+         x="1192"
+         y="1533"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1">87</tspan></text>
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       sodipodi:nodetypes="ssscssscs"
+       inkscape:connector-curvature="0"
+       id="path5525"
+       d="m 1159.5507,1522.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1105,1247 c 0,-7.2557 13,-7.2557 13,0"
+       id="path5527"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5529"
+       cx="1108"
+       cy="1236"
+       r="2" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="2"
+       cy="1236"
+       cx="1115"
+       id="circle5531"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1134"
+       y="1245"
+       id="text5535"><tspan
+         sodipodi:role="line"
+         id="tspan5533"
+         x="1134"
+         y="1245"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">0</tspan></text>
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       id="text5539"
+       y="1245"
+       x="1186"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+         y="1245"
+         x="1186"
+         id="tspan5537"
+         sodipodi:role="line">0</tspan></text>
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1159.5507,1234.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       id="path5541"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscssscs" />
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5543"
+       d="m 1105,1461 c 0,-7.2557 13,-7.2557 13,0"
+       style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="2"
+       cy="1450"
+       cx="1108"
+       id="circle5545"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5547"
+       cx="1115"
+       cy="1450"
+       r="2" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       id="text5551"
+       y="1459"
+       x="1134"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+         y="1459"
+         x="1134"
+         id="tspan5549"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1186"
+       y="1459"
+       id="text5555"><tspan
+         sodipodi:role="line"
+         id="tspan5553"
+         x="1186"
+         y="1459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">0</tspan></text>
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       sodipodi:nodetypes="ssscssscs"
+       inkscape:connector-curvature="0"
+       id="path5557"
+       d="m 1159.5507,1448.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       style="opacity:0.25;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1105,1535 c 0,-7.2557 13,-7.2557 13,0"
+       id="path5559"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5561"
+       cx="1108"
+       cy="1524"
+       r="2" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="2"
+       cy="1524"
+       cx="1115"
+       id="circle5563"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1134"
+       y="1533"
+       id="text5567"><tspan
+         sodipodi:role="line"
+         id="tspan5565"
+         x="1134"
+         y="1533"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">0</tspan></text>
+    <text
+       id="text5571"
+       y="1691"
+       x="1192"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#cd0b47;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#cd0b47;fill-opacity:1"
+         y="1691"
+         x="1192"
+         id="tspan5569"
+         sodipodi:role="line">87</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cd0b47;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1159.5507,1680.5287 c -2.0264,0 -3.6693,1.6379 -3.6693,3.6582 0,2.0205 2.2346,3.6948 3.6693,5.1217 l 2.9355,2.9195 2.9355,-2.9195 c 1.4346,-1.4269 3.6693,-3.1012 3.6693,-5.1217 0,-2.0203 -1.6429,-3.6582 -3.6693,-3.6582 -1.1562,0 -2.2441,0.5466 -2.9355,1.4705 -0.6915,-0.9239 -1.7793,-1.4699 -2.9355,-1.4705 z"
+       id="path5573"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscssscs"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1105,1692 c 0,-7.2557 13,-7.2557 13,0 z"
+       id="path5575"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5577"
+       cx="1108"
+       cy="1682"
+       r="2"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       r="2"
+       cy="1682"
+       cx="1115"
+       id="circle5579"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1140"
+       y="1691"
+       id="text5583"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         sodipodi:role="line"
+         id="tspan5581"
+         x="1140"
+         y="1691"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">10</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5591"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.37647059;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(16,847.6667)"><flowRegion
+         id="flowRegion5587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059"><rect
+           id="rect5585"
+           width="777"
+           height="103"
+           x="368"
+           y="248"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059" /></flowRegion><flowPara
+         style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059"
+         id="flowPara5589">Ваш комментарий</flowPara></flowRoot>    <rect
+       y="1126.8712"
+       x="368"
+       height="1.1287671"
+       width="824"
+       id="rect5593"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       transform="translate(976,847.6667)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.37647059;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5601"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059"
+         id="flowRegion5597"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:1.35000002em;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059"
+           y="248"
+           x="368"
+           height="103"
+           width="777"
+           id="rect5595" /></flowRegion><flowPara
+         id="flowPara5599"
+         style="font-size:16.66666603px;line-height:1.35000002em;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.37647059">Ваш комментарий</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7022469;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5603"
+       width="360"
+       height="1"
+       x="1328"
+       y="1127" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path5605"
+       d="m 1672,1106 -24,-8 v 7 l 19,1 -19,1 v 7 z"
+       style="opacity:0.25;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="opacity:0.25;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1176,1106 -24,-8 v 7 l 19,1 -19,1 v 7 z"
+       id="path5607"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       id="text5645"
+       y="409"
+       x="1983.7443"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         y="409"
+         x="1983.7443"
+         id="tspan5643"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">Музыка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1983.7443"
+       y="233"
+       id="text5649"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         sodipodi:role="line"
+         id="tspan5647"
+         x="1983.7443"
+         y="233"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">Блог</tspan></text>
+    <path
+       id="path5651"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2030.5261,220.38103 c 4.315,-0.23806 7.2676,1.61578 8.9891,3.26324 1.7215,-1.64746 4.674,-3.5013 8.989,-3.26324 v 12.08424 c -4.315,-0.23806 -7.2676,1.61577 -8.989,3.26324 -1.7215,-1.64747 -4.6741,-3.5013 -8.9891,-3.26324 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1983.7443"
+       y="465"
+       id="text5655"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end"
+         sodipodi:role="line"
+         id="tspan5653"
+         x="1983.7443"
+         y="465">Фото</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5657"
+       d="m 2047.5,402.00832 v 2.99167"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2042.5,399.02499 v 8.975"
+       id="path5659"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5661"
+       d="m 2037.5,395.04721 v 16.95278"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5663"
+       d="m 2032.5,399.02499 v 8.975"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <ellipse
+       ry="8"
+       rx="3.9999998"
+       cy="459.50003"
+       cx="2045.5"
+       id="ellipse5665"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2045,467.50002 h -6.5 c -2.2091,0 -4,-3.58172 -4,-8 0,-4.41828 1.7909,-8 4,-8 h 6.5"
+       id="path5667"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       sodipodi:nodetypes="cscsc"
+       inkscape:connector-curvature="0"
+       id="path5669"
+       d="m 2037,466.5 h -3.5 c -2.2091,0 -4,-3.13401 -4,-7 0,-3.866 1.7909,-7 4,-7 h 3.5"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <text
+       id="text5673"
+       y="521"
+       x="1983.7443"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="521"
+         x="1983.7443"
+         id="tspan5671"
+         sodipodi:role="line">Связь</tspan></text>
+    <text
+       id="text5679"
+       y="273"
+       x="1983.7443"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="273"
+         x="1983.7443"
+         id="tspan5677"
+         sodipodi:role="line">Установка qTox в Ubuntu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:url(#Key-7);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1983.7443"
+       y="313.00003"
+       id="text5683"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         sodipodi:role="line"
+         id="tspan5681"
+         x="1983.7443"
+         y="313.00003"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:end;text-anchor:end;fill:url(#Key-7);fill-opacity:1">Как я дезигнил блог</tspan></text>
+    <text
+       id="text5687"
+       y="353.00003"
+       x="1983.7443"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="353.00003"
+         x="1983.7443"
+         id="tspan5685"
+         sodipodi:role="line">Покупка болтореза</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.1254902;stroke:#00fac9;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5691"
+       width="1"
+       height="16"
+       x="2039"
+       y="281"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       y="321.00003"
+       x="2039"
+       height="16"
+       width="1"
+       id="rect5693"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.1254902;stroke:#00fac9;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       y="245"
+       x="2039"
+       height="12"
+       width="1"
+       id="rect5695"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.1254902;stroke:#00fac9;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2039.5001,523.5 v -16"
+       id="path5697"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2047.5001,508.5 -8,9 -8,-9"
+       id="path5699"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       r="2.5"
+       cy="308.5"
+       cx="2039.5"
+       id="circle5701"
+       style="opacity:1;fill:url(#Key-7);fill-opacity:0.96700505;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.96700505;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5703"
+       cx="2039.5"
+       cy="268.5"
+       r="1.5"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       r="1.5"
+       cy="348.5"
+       cx="2039.5"
+       id="circle5705"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.96700505;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="24"
+       cy="584"
+       cx="2040"
+       id="circle5715"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="3"
+       cy="584"
+       cx="2040"
+       id="circle5717"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5719"
+       cx="2030"
+       cy="584"
+       r="3" />
+    <circle
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       r="3"
+       cy="584"
+       cx="2050"
+       id="circle5721"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:4.6500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="192"
+       inkscape:export-xdpi="192"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1983.7443"
+       y="577"
+       id="text5741"><tspan
+         sodipodi:role="line"
+         id="tspan5739"
+         x="1983.7443"
+         y="577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">Топ Кек</tspan></text>
+    <text
+       id="text5745"
+       y="633"
+       x="1983.7443"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="633"
+         x="1983.7443"
+         id="tspan5743"
+         sodipodi:role="line">Чебурек</tspan></text>
   </g>
   <g
      inkscape:label="Search Active"
