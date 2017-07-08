@@ -261,8 +261,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1585.1183"
-     inkscape:cy="-505.96226"
+     inkscape:cx="1029.7098"
+     inkscape:cy="328.51219"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -8753,7 +8753,7 @@ bZqjzN42jDFqbThjNY8xYnDNIbPaMHMdn/Y2R2f8IczWPE0/5kZ7n8/8HMdxjj/gbZp7f/D/2Q==
     <rect
        inkscape:export-ydpi="192"
        inkscape:export-xdpi="192"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5084-2"
        width="27"
        height="27"
@@ -12001,6 +12001,42 @@ Y5XtH94rzBBCiz/emKlixCZPb95IAJo+cZyQFENZ/9k=
        d="m 1394,1096.5 18,12 -18,12 z"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.2692914;stroke-miterlimit:4;stroke-dasharray:9.80787423, 9.80787423;stroke-dashoffset:0;stroke-opacity:1"
        id="path8722" />
+    <path
+       sodipodi:nodetypes="sssssscsscs"
+       inkscape:connector-curvature="0"
+       id="path8736"
+       d="m 1585.587,317.49999 h -65.9704 c -1.1726,0 -2.1166,0.92631 -2.1166,2.07692 v 13.84615 c 0,1.15062 0.944,2.07693 2.1166,2.07693 h 65.9704 c 1.1726,0 2.6985,-1.26332 3.5277,-2.07693 l 5.2915,-5.19229 c 1.2977,-1.27336 1.2977,-2.18818 0,-3.46155 l -5.2915,-5.19231 c -0.8292,-0.8136 -2.3551,-2.07692 -3.5277,-2.07692 z"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text8740"
+       y="331.97903"
+       x="1513.6401"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.27939606px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0059729,0.99406256)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.27939606px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1px"
+         y="331.97903"
+         x="1513.6401"
+         id="tspan8738"
+         sodipodi:role="line">ELECTRONIC</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1653.587,317.49999 h -41.9704 c -1.1726,0 -2.1166,0.92631 -2.1166,2.07692 v 13.84615 c 0,1.15062 0.944,2.07693 2.1166,2.07693 h 41.9704 c 1.1726,0 2.6985,-1.26332 3.5277,-2.07693 l 5.2915,-5.19229 c 1.2977,-1.27336 1.2977,-2.18818 0,-3.46155 l -5.2915,-5.19231 c -0.8292,-0.8136 -2.3551,-2.07692 -3.5277,-2.07692 z"
+       id="path8742"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssscsscs" />
+    <text
+       transform="scale(1.0059729,0.99406256)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.27939606px;line-height:0%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1605.0935"
+       y="331.97903"
+       id="text8746"><tspan
+         sodipodi:role="line"
+         id="tspan8744"
+         x="1605.0935"
+         y="331.97903"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.27939606px;line-height:10;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1px">TRAPPY</tspan></text>
   </g>
   <g
      style="display:none"
