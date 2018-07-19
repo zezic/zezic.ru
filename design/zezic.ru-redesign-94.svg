@@ -309,20 +309,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="608.23303"
-     inkscape:cy="292.65618"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-142.58468"
+     inkscape:cy="-386.41099"
      inkscape:document-units="px"
-     inkscape:current-layer="g8149"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showborder="false"
      guidecolor="#62829d"
      guideopacity="0.49803922"
-     inkscape:window-width="2646"
-     inkscape:window-height="1131"
-     inkscape:window-x="591"
-     inkscape:window-y="171"
+     inkscape:window-width="2420"
+     inkscape:window-height="1128"
+     inkscape:window-x="1639"
+     inkscape:window-y="118"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -339,7 +339,7 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-nodes="true"
      inkscape:snap-global="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -507,12 +507,12 @@
        id="guide7184"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-1289.872,140.00137"
+       position="-1290,677"
        orientation="1,0"
        id="guide7269"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-465.872,148.00137"
+       position="-466,676"
        orientation="1,0"
        id="guide7271"
        inkscape:locked="false" />
@@ -565,7 +565,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12110,12 +12110,11 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Blog Article"
      id="g8149"
      inkscape:groupmode="layer"
-     transform="translate(-367.872,-61.00455)"
-     sodipodi:insensitive="true">
+     transform="translate(-367.872,-61.00455)">
     <rect
        inkscape:export-ydpi="192"
        inkscape:export-xdpi="192"
@@ -15467,6 +15466,13 @@
          x="1983.6162"
          id="tspan5743"
          sodipodi:role="line">Чебурек</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.50196078;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4573"
+       width="824"
+       height="60"
+       x="367.87201"
+       y="-105.99869" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -19069,7 +19075,7 @@
      inkscape:label="Search Active"
      id="g7637"
      inkscape:groupmode="layer"
-     style="display:inline"
+     style="display:none"
      transform="translate(-367.872,-61.00455)"
      sodipodi:insensitive="true">
     <rect

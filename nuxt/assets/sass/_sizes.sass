@@ -1,0 +1,13 @@
+$breakpoints: (tablet-portrait: 768px, tablet-landscape: 1024px, laptop: 1280px, desktop: 1920px)
+
+@mixin respond-to($breakpoint)
+  @if map-has-key($breakpoints, $breakpoint)
+    @media screen and (min-width: #{map-get($breakpoints, $breakpoint)})
+      @content
+
+  @else
+    @warn "There is no breakpoint with name `#{$breakpoint}`. "
+
+$size-content-width: 824px
+$size-sidebar-width: 280px
+$size-sidebar-width-collapsed: 101px
